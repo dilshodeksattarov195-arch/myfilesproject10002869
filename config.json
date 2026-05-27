@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterrync",
+        "uuid": 2074287,
+        "checksum": "0opi6j"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
